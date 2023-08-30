@@ -42,7 +42,7 @@ public class DeleteUserStepDef {
                 seeThat(
                         "The server response for the phone was:",
                         res -> DeleteDataResponse.was().answeredBy(user).getPhone(),
-                        equalTo("1-570-236-7033")
+                        equalTo(data.get("RESPONSE_PHONE"))
                 )
         );
     }

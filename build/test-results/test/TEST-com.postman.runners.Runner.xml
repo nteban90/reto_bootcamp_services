@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.postman.runners.Runner" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-08-26T16:42:08" hostname="SQABOG-SQA4272" time="15.712">
+<testsuite name="com.postman.runners.Runner" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-08-30T16:37:17" hostname="SQABOG-SQA4272" time="24.125">
   <properties/>
-  <testcase name="Create user successfully." classname="com.postman.runners.Runner" time="11.565"/>
-  <testcase name="Update user successfully." classname="com.postman.runners.Runner" time="2.459"/>
-  <testcase name="Delete user successfully." classname="com.postman.runners.Runner" time="1.685"/>
+  <testcase name="Create user successfully." classname="com.postman.runners.Runner" time="12.593"/>
+  <testcase name="Update user successfully." classname="com.postman.runners.Runner" time="9.459"/>
+  <testcase name="Delete user successfully." classname="com.postman.runners.Runner" time="2.067"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[log4j:WARN No appenders could be found for logger (freemarker.cache).
-log4j:WARN No appenders could be found for logger (freemarker.cache).
-log4j:WARN Please initialize the log4j system properly.
-log4j:WARN No appenders could be found for logger (freemarker.cache).
-log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
-log4j:WARN Please initialize the log4j system properly.
 log4j:WARN Please initialize the log4j system properly.
 log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (freemarker.cache).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (freemarker.cache).
+log4j:WARN Please initialize the log4j system properly.
 log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
 ?[32m?[1m??????????????????????????????????????????????????????????????????????????????????????[0m
 ?[32m?[1m??[0m Share your Cucumber Report with your team at ?[36m?[1m?[4mhttps://reports.cucumber.io?[0m          ?[32m?[1m??[0m
